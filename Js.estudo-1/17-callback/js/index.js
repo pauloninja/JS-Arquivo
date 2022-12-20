@@ -1,0 +1,1 @@
+function exibirArtigo(id, callbackSucesso, callbackErro)
