@@ -5,8 +5,7 @@ document.write(data.toString())
 data.setDate(data.getDate() + 1)// -1 dia remove ou 720 aumenta dia e meses
 document.write('<hr/>')
 document.write(data.toString())
-
-
+ 
 //adicionar / remover dias
 document.write(data.toString())
 data.setMonth(data.getMonth() + 1)// aumentar meses
