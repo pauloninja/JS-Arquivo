@@ -12,4 +12,8 @@ var divisao = n1 / n2 // ** elevado
 
 alert('O resto da divisão de n1 e n2 é: ' + divisao)
 //alert('O resto da divisão de n1 e n2 é: ' + elevado)
+ 
 
+/* Operadores de Comparação
+
+= receber == igual === igual e  !== igual e diferente => igual e maior <= menor igual > maior < menor != diferente */
